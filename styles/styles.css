@@ -1,6 +1,7 @@
 * {
   margin-right: 25px;
   margin-left: 25px;
+  background-color: gray;
 }
 
 .header {
@@ -9,4 +10,9 @@
 
 a {
   
+}
+
+#footer {
+  text-size: 10px;
+  color: #4a4948;
 }
