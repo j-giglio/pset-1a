@@ -18,7 +18,9 @@
   
 }
 
-#links
+#links{
+  
+}
 
 .footer {
   text-size: 10px;
@@ -35,14 +37,18 @@ img {
   margin-left: 15px;
 }
 
-a {
+a.header {
   color: #e6ff08;
 }
 
-a:hover {
+a:hover.header {
   color: white;
 }
 
-a:visited {
+a:visited.header {
   color: #07eb0b;
+}
+
+a {
+  color:
 }
