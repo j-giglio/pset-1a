@@ -39,10 +39,11 @@ img {
 
 a.header {
   color: #e6ff08;
+  margin: 4px;
 }
 
 a:hover.header {
-  color: white;
+  color: #ffffff;
 }
 
 a:visited.header {
