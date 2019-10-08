@@ -23,11 +23,11 @@
 
 .footer {
   text-size: 10px;
-  color: 4a4948;
+  color: #4a4948;
 }
 
 a {
-  color: e6ff08
+  color: #e6ff08
 }
 
 a:hover {
@@ -35,5 +35,5 @@ a:hover {
 }
 
 a:visited {
-  color: 07eb0b
+  color: #07eb0b
 }
