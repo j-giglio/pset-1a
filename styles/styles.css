@@ -19,7 +19,7 @@
 }
 
 #links{
-  
+  margin: auto
 }
 
 .footer {
@@ -39,15 +39,15 @@ img {
 
 a.header {
   color: #e6ff08;
-  margin: 4px;
-}
-
-a:hover.header {
-  color: #ffffff;
+  margin: 40px;
 }
 
 a:visited.header {
   color: #07eb0b;
+}
+
+a:hover.header {
+  color: white;
 }
 
 a {
