@@ -1,6 +1,5 @@
 * {
-  margin-right: 15px;
-  margin-left: 15px;
+  font-family: "Times New Roman", "Comic Sans MS", "Helvetica";
 }
 
 .header {
@@ -26,14 +25,24 @@
   color: #4a4948;
 }
 
+div {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+img {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
 a {
-  color: #e6ff08
+  color: #e6ff08;
 }
 
 a:hover {
-  color: white
+  color: white;
 }
 
 a:visited {
-  color: #07eb0b
+  color: #07eb0b;
 }
