@@ -1,17 +1,39 @@
 * {
-  margin-right: 25px;
-  margin-left: 25px;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 
 .header {
   background-color: blue;
 }
 
-a {
+.main {
   
 }
 
-#footer {
+#overview {
+  
+}
+
+#score {
+  
+}
+
+#links
+
+.footer {
   text-size: 10px;
-  color: #4a4948;
+  color: 4a4948;
+}
+
+a {
+  color: e6ff08
+}
+
+a:hover {
+  color: white
+}
+
+a:visited {
+  color: 07eb0b
 }
