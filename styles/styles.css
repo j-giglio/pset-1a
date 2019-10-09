@@ -19,12 +19,12 @@
 }
 
 #links{
-  text-align: center
+  text-align: center;
 }
 
 .footer {
-  text-size: 10px;
-  color: #4a4948;
+  text-size: 8px;
+  color: #a2a8a2;
 }
 
 div {
@@ -50,6 +50,14 @@ a:hover.header {
   color: white;
 }
 
-a {
-  color:
+a[href="https://www.ucvts.tec.nj.us"] {
+  color:blue;
+}
+
+a:hover[href="https://www.ucvts.tec.nj.us"] {
+  color:red;
+}
+
+table > tr {
+  border-bottom-style: solid
 }
