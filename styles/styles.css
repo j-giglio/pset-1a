@@ -7,15 +7,17 @@
 }
 
 .main {
-  
+  background-color: white;
 }
 
 #overview {
-  
+  width: 180px;
+  float: right;
 }
 
 #score {
-  
+  width:600;
+  float: left;
 }
 
 #links{
@@ -24,7 +26,7 @@
 
 .footer {
   text-size: 8px;
-  color: #a2a8a2;
+  color: #7d827d;
 }
 
 div {
@@ -58,6 +60,22 @@ a:hover[href="https://www.ucvts.tec.nj.us"] {
   color:red;
 }
 
+a[href="https://www.ucvts.tec.nj.us/Page/471"] {
+  color:blue;
+}
+
+a:hover[href="https://www.ucvts.tec.nj.us/Page/471"] {
+  color:red;
+}
+
 table > tr {
-  border-bottom-style: solid
+  border-bottom-style: solid;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  color: blue;
 }
