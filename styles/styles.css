@@ -1,5 +1,5 @@
 * {
-  font-family: "Times New Roman", "Comic Sans MS", "Helvetica";
+  font-family: "Helvetica", "Comic Sans MS", "Times New Roman";
 }
 
 .header {
@@ -73,7 +73,7 @@ a:hover[href="https://www.ucvts.tec.nj.us/Page/471"] {
 }
 
 table tr th ~ td {
-  border-bottom-style: solid;
+  border-style: solid;
 }
 
 ul {
