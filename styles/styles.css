@@ -11,12 +11,12 @@
 }
 
 #overview {
-  width: 180px;
+  width: 680px;
   float: right;
 }
 
 #score {
-  width:600;
+  width:180;
   float: left;
 }
 
@@ -32,6 +32,7 @@
 div {
   margin-right: 15px;
   margin-left: 15px;
+  background-color: white;
 }
 
 img {
@@ -77,5 +78,5 @@ ul {
 }
 
 body {
-  color: blue;
+  background-color: blue;
 }
