@@ -16,17 +16,19 @@
 }
 
 #score {
-  width:180;
+  width:180px;
   float: left;
 }
 
 #links{
   text-align: center;
+  clear: both;
 }
 
 .footer {
   text-size: 8px;
   color: #7d827d;
+  clear:both;
 }
 
 div {
@@ -38,6 +40,7 @@ div {
 img {
   margin-right: 15px;
   margin-left: 15px;
+  clear:both
 }
 
 a.header {
