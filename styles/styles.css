@@ -74,6 +74,7 @@ a:hover[href="https://www.ucvts.tec.nj.us/Page/471"] {
 
 td {
   border-style: solid;
+  border-width: thin;
 }
 
 ul {
