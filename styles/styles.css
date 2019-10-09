@@ -72,12 +72,16 @@ a:hover[href="https://www.ucvts.tec.nj.us/Page/471"] {
   color:red;
 }
 
-table tr th ~ td {
+td {
   border-style: solid;
 }
 
 ul {
   list-style-type: none;
+}
+
+ol li {
+  font-weight: bold;
 }
 
 body {
